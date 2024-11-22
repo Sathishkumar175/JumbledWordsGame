@@ -43,7 +43,7 @@ CREATE TABLE scores (
 );
 
 
-#JDBC connection:
+JDBC connection:
 
 // Add JDBC dependency in gradle
 implementation 'org.mariadb.jdbc:mariadb-java-client:3.0.0'
